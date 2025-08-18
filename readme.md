@@ -71,6 +71,8 @@ Til að sækja dæmi er hægt að sækja allt efni frá þessu GitHub repo með 
 
 - [Vika 1, 18.—24. ágúst 2025](vikur/vika-01.md)
   - Kynning; inngangur; HTML; Netlify
+- [Vika 2, 25.—31. ágúst 2025](vikur/vika-02.md)
+  - Element; töflur, listar, form; að skrifa HTML; aðgengi & SEO
 
 ## Verkefni
 

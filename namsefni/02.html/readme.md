@@ -4,7 +4,7 @@
 
 ## Dæmi
 
-[Skoða dæmi á vef](https://vefforritun.github.io/vef1-2024/namsefni/03.html-element)
+[Skoða dæmi á vef](https://vefforritun.github.io/vef1-2025/namsefni/03.html-element)
 
 [Minnsta HTML skjalið](daemi/minnsta.html)
 
