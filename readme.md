@@ -21,7 +21,7 @@ Hér má nálgast allt námsefni, dæmi og verkefni í áfanganum vefforritun 1 
 | 13   | 10. nóvember  | Aðstoð, umræður; verkefnatími; upplýsingar um lokapróf                              |                           | Hópverkefni 2             |
 | 14   | 17. nóvember  | Samantekt og upprifjun; aðstoð; umræður                                             |                           |                           |
 
-Nánar er [fjallað um kennsluáætlun og námsefni í viku 1](vikur/vika-01.md) og [sýnd yfirferð á námsefni hér á GitHub](https://youtu.be/TODO).
+Nánar er [fjallað um kennsluáætlun og námsefni í viku 1](vikur/vika-01.md) og [sýnd yfirferð á námsefni hér á GitHub](https://youtu.be/zUCDLAWWPls).
 
 [Kennslualmanak háskólaárið 2025–2026](https://ugla.hi.is/kennsluskra/index.php?tab=skoli&chapter=content&id=56025&kennsluar=2025).
 

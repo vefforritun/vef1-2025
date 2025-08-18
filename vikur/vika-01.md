@@ -2,7 +2,10 @@
 
 ## Fyrirlestrar
 
-Koma inn eftir fyrirlestur 18. ágúst.
+- [Fyrirlestur 1.1: Kynning á áfanga](https://youtu.be/3YSRRjgiXs4)
+- [Fyrirlestur 1.2: Yfirferð á námsefni á GitHub, Uglu og Canvas](https://youtu.be/zUCDLAWWPls)
+- [Fyrirlestur 1.3: Kynning á verkefni 1](https://youtu.be/pC7gfIzD7rI)
+- [Fyrirlestur 1.4: Uppsetning á Visual Studio Code og Netlify](https://youtu.be/K0Jmta9kzUk)
 
 ## Námsefni
 
@@ -59,11 +62,11 @@ Sjá öll lykilhugtök og skilgreiningar í [lykilhugtok.md](../lykilhugtok.md).
 
 ## Verkefni
 
-- [ ] Setja upp [Visual Studio Code](https://code.visualstudio.com/) ritilinn
-- [ ] Búa til aðgang hjá [Netlify](https://www.netlify.com/)
-- [ ] [Byrja á verkefni 1](https://github.com/vefforritun/vef1-2025-v1)
-- [ ] [Skoða YouTube rás fyrir vefforritun 1 2025](https://www.youtube.com/channel/UCPtLVvj-XXcHWEGLuFCrGMg)
-  - [ ] Ef þið viljið fá tilkynningu þegar fyrirlestrar eru settir inn er hægt að gerast áskrifandi að YouTube rásinni
-- [ ] Skoða [Mozilla Developer Network – MDN](https://developer.mozilla.org/), t.d. [Learn web development](https://developer.mozilla.org/en-US/docs/Learn)
-- [ ] Setja upp [Slack](https://slack.com) (ekki krafa)
-  - [ ] Skrá sig inn á [Vefforritunar Slackið](https://vefforritun.slack.com/), passa að þið séuð á `#vef1-2025` rásinni
+- [ ] Setja upp [Visual Studio Code](https://code.visualstudio.com/) ritilinn.
+- [ ] Búa til aðgang hjá [Netlify](https://www.netlify.com/).
+- [ ] [Byrja á verkefni 1](https://github.com/vefforritun/vef1-2025-v1).
+- [ ] [Skoða YouTube rás fyrir vefforritun 1 2025](https://www.youtube.com/channel/UCPtLVvj-XXcHWEGLuFCrGMg).
+  - [ ] Ef þið viljið fá tilkynningu þegar fyrirlestrar eru settir inn er hægt að gerast áskrifandi að YouTube rásinni.
+- [ ] Skoða [Mozilla Developer Network – MDN](https://developer.mozilla.org/), t.d. [Learn web development](https://developer.mozilla.org/en-US/docs/Learn).
+- [ ] Setja upp [Slack](https://slack.com) (ekki krafa).
+  - [ ] Skrá sig inn á [Vefforritunar Slackið](https://vefforritun.slack.com/), passa að þið séuð á `#vef1-2025` rásinni.
