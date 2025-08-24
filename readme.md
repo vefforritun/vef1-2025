@@ -73,6 +73,10 @@ Til að sækja dæmi er hægt að sækja allt efni frá þessu GitHub repo með 
   - Kynning; inngangur; HTML; Netlify
 - [Vika 2, 25.—31. ágúst 2025](vikur/vika-02.md)
   - Element; töflur, listar, form; að skrifa HTML; aðgengi & SEO
+- [Vika 3, 1.—7. september 2025](vikur/vika-03.md)
+  - CSS; box model; specificity og cascade; visual formatting; Letur & litir
+- [Vika 4, 8.—14. september 2025](vikur/vika-04.md)
+  - Flexbox; CSS virkni & stuðningur
 
 ## Verkefni
 
@@ -86,6 +90,12 @@ Verkefni eru sett fyrir formlega í fyrirlestri á mánudegi (þau gætu verið 
 - [Verkefni 2 (HTML #2)](https://github.com/vefforritun/vef1-2025-v2), HTML element, aðgengi og SEO.
   - Sett fyrir 25. ágúst, skilist 4. september.
   - [Sýnilausn](https://github.com/vefforritun/vef1-2025-v2-synilausn), aðgengileg 5. september.
+- [Verkefni 3 (CSS #1)](https://github.com/vefforritun/vef1-2025-v3), CSS grunnur.
+  - Sett fyrir 1. september, skilist 11. september
+  - [Sýnilausn](https://github.com/vefforritun/vef1-2025-v3-synilausn), aðgengileg 12. september.
+- [Verkefni 4 (CSS #2)](https://github.com/vefforritun/vef1-2025-v4), CSS flexbox.
+  - Sett fyrir 8. september, skilist 18. september
+  - [Sýnilausn](https://github.com/vefforritun/vef1-2025-v4-synilausn), aðgengileg 19. september.
 
 ### Hópverkefni
 
