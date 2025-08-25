@@ -2,7 +2,9 @@
 
 ## Fyrirlestrar
 
-Koma inn eftir fyrirlestur 25. ágúst.
+- [Fyrirlestur 2.1: Nánar um verkefni 1; HTML spec](https://youtu.be/07K-m9kMfYg)
+- [Fyrirlestur 2.2: Meira um HTML; w3c validator; prettier](https://youtu.be/0K0bbtk_juw)
+- [Fyrirlestur 2.3: Yfirferð á verkefni 2; aðeins um aðgengi](https://youtu.be/KTDBT8mUo4U)
 
 ## Námsefni
 
