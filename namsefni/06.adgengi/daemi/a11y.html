@@ -1,7 +1,7 @@
-<!doctype html>
+<!DOCTYPE html>
 <html lang="is">
   <head>
-    <meta charset="utf-8">
+    <meta charset="utf-8" />
     <title>Accessibility</title>
   </head>
 
@@ -23,10 +23,10 @@
         <p>Hello, world</p>
 
         <!-- mynd án alt text -->
-        <img src="../1.html-element/media/butterfly.jpg">
+        <img src="../../03.html-element/daemi/media/butterfly.jpg" />
 
         <!-- mynd með tóman alt text -->
-        <img src="../1.html-element/media/butterfly.jpg" alt="">
+        <img src="../../03.html-element/daemi/media/butterfly.jpg" alt="" />
       </section>
 
       <section>
@@ -34,12 +34,18 @@
         <p>Follow instructions, see image</p>
 
         <!-- alt texti á mynd en mjög lélegur í samhengi -->
-        <img src="../1.html-element/media/butterfly.jpg" alt="Instructions">
+        <img
+          src="../../03.html-element/daemi/media/butterfly.jpg"
+          alt="Instructions"
+        />
 
         <p>Follow instructions, see image</p>
 
         <!-- betri alt texti -->
-        <img src="../1.html-element/media/butterfly.jpg" alt="Start by removing the lid, then remove the stuff.">
+        <img
+          src="../../03.html-element/daemi/media/butterfly.jpg"
+          alt="Start by removing the lid, then remove the stuff."
+        />
       </section>
 
       <section>
@@ -47,15 +53,19 @@
         <div>
           <p>Funny video</p>
           <video>
-            <source src="../1.html-element/media/big_buck_bunny.mp4">
+            <source
+              src="../../03.html-element/daemi/media/big_buck_bunny.mp4"
+            />
           </video>
         </div>
 
         <!-- video er ekki mikilvægt svo við getum falið -->
         <div aria-hidden="true">
           <p>Funny video</p>
-          <video autoplay muted >
-            <source src="../1.html-element/media/big_buck_bunny.mp4">
+          <video autoplay muted>
+            <source
+              src="../../03.html-element/daemi/media/big_buck_bunny.mp4"
+            />
           </video>
         </div>
       </section>
@@ -67,7 +77,7 @@
           <legend>Your info</legend>
           <div>
             Name:
-            <input name="x" type="text">
+            <input name="x" type="text" />
           </div>
           <div>
             <label for="email">Email:</label>
@@ -77,7 +87,7 @@
               placeholder="email@example.org"
               required
               aria-describedby="email-text"
-            >
+            />
             <em id="email-text">Email must include "@"</em>
           </div>
           <div>
@@ -98,7 +108,7 @@
           </div>
         </fieldset>
       </section>
-      <hr>
+      <hr />
       <footer>
         <p>Footer stuff.</p>
         <p>Footer stuff.</p>
