@@ -6,7 +6,7 @@
 
 ## Dæmi
 
-[Skoða dæmi á vef](https://vefforritun.github.io/vef1-2025/namsefni/12.css-cascade)
+[Skoða dæmi á vef](https://vefforritun.github.io/vef1-2025/namsefni/10.css-cascade)
 
 ### Cascade
 

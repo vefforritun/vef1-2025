@@ -4,7 +4,7 @@
 
 ## Dæmi
 
-[Skoða dæmi á vef](https://vefforritun.github.io/vef1-2025/namsefni/10.css)
+[Skoða dæmi á vef](https://vefforritun.github.io/vef1-2025/namsefni/08.css)
 
 - [HTML & CSS](daemi/01.html-css.html)
   - Tenging HTML & CSS, ekki gott dæmi

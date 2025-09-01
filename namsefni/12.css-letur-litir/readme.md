@@ -4,7 +4,7 @@
 
 ## Dæmi
 
-[Skoða dæmi á vef](https://vefforritun.github.io/vef1-2025/namsefni/14.css-letur-litir/)
+[Skoða dæmi á vef](https://vefforritun.github.io/vef1-2025/namsefni/12.css-letur-litir/)
 
 - [Almennar og vef öruggar leturgerðir](daemi/01.basic-typefaces.html)
 - [Dæmi um letur og texta](daemi/02.text.html)

@@ -4,15 +4,15 @@
 
 ## Dæmi
 
-[Skoða dæmi á vef](https://vefforritun.github.io/vef1-2025/namsefni/13.css-visual-formatting)
+[Skoða dæmi á vef](https://vefforritun.github.io/vef1-2025/namsefni/11.css-visual-formatting)
 
-- [Dæmi um margin](daemi/01.margin.html)
-- [Dæmi um collapsing margin](daemi/02.collapsing.html)
-- [Dæmi um border](daemi/03.border.html)
-- [Efni ætti að stýra hæð á boxi, dæmi](daemi/04.height.html)
-- [Dæmi um `box-sizing`](daemi/05.box.html)
-- [Efni ætti að stýra hæð](daemi/04.height.html)
-- [Box módel](daemi/05.box.html)
+- [Dæmi um display eigindið](daemi/01.display.html)
+- [Dæmi um overflow](daemi/02.overflow.html)
+- [Dæmi um position](daemi/03.position.html)
+- [Dæmi um sticky virkni](daemi/04.sticky.html)
+- [Annað dæmi um position](daemi/05.position2.html)
+- [z-index og hover](daemi/06.zindex-hover.html)
+- [Dæmi um float](daemi/07.float.html)
 
 ## Ítarefni
 
