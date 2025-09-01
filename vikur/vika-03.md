@@ -2,7 +2,11 @@
 
 ## Fyrirlestrar
 
-Koma inn eftir fyrirlestur 1. september.
+- [Fyrirlestur 3.1: Aðstoð við verkefni 2](https://youtu.be/Zay8DL0o9dM)
+- [Fyrirlestur 3.2: Yfirferð á námsefni viku 3](https://youtu.be/cXLRy35-rmM)
+- [Fyrirlestur 3.3: Verkefni 3 og byrjun](https://youtu.be/QL99uWoAK8M)
+
+[Verkefni 3 sem við unnum að í tíma](https://github.com/vefforritun/vef1-2025-v3-unnid-i-tima).
 
 ## Námsefni
 
