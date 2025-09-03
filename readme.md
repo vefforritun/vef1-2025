@@ -79,6 +79,8 @@ Til að sækja dæmi er hægt að sækja allt efni frá þessu GitHub repo með 
   - Flexbox; CSS virkni & stuðningur
 - [Vika 5, 15.—21. september 2025](vikur/vika-05.md)
   - Skalanlegir vefir; hönnun; grid; kvikun
+- [Vika 6, 22.—28. september 2025](vikur/vika-06.md)
+  - Gestafyrirlestur um hönnun; node.js & npm; Sass & Stylelint; CSS í stærri verkefnum
 
 ## Verkefni
 
@@ -101,6 +103,9 @@ Verkefni eru sett fyrir formlega í fyrirlestri á mánudegi (þau gætu verið 
 - [Verkefni 5 (CSS #3)](https://github.com/vefforritun/vef1-2025-v5), CSS grid.
   - Sett fyrir 15. september, skilist 25. september.
   - [Sýnilausn](https://github.com/vefforritun/vef1-2025-v5-synilausn), aðgengileg 26. september.
+- [Verkefni 6 (CSS #4)](https://github.com/vefforritun/vef1-2025-v6), CSS í stærri verkefnum.
+  - Sett fyrir 22. september, skilist 2. október.
+  - [Sýnilausn](https://github.com/vefforritun/vef1-2025-v6-synilausn), aðgengileg 3. október.
 
 ### Hópverkefni
 
