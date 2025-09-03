@@ -455,3 +455,69 @@ Samansafn af öllum lykilhugtökum í áfanganum.
   - linter fyrir CSS og fleiri mál, t.d. Sass.
   - [Vefforritun: NPM og almenn tæki og tól, st](https://bok.vefforritun.is/24.npm-taeki-tol#24.5)
   - [stylelint](https://github.com/stylelint/stylelint)
+
+## Vika 7
+
+[Vikublað 7](vikur/vika-07.md)
+
+- Útgáfustjórnun
+  - _Version control_
+  - Kerfi sem geymur útgáfur af skrám sem við vinnum með, leyfir okkur t.d. að treysta því að vinna okkar sé örygg, fara fram og til baka í tíma og gera tilraunir án þess að tapa gögnum.
+  - [Wikipedia: Version Contro](https://en.wikipedia.org/wiki/Version_control)
+- Git
+  - Dreift útgáfustjórnunarkerfi með þau markmið að vera hratt, einfalt og leyfa ólínulega þróun (auðvelt að útbúa „branch“).
+  - [Wikipedia: Git](https://en.wikipedia.org/wiki/Git)
+- repo
+  - _Repository_
+  - Staður þar sem við geymum gögn og lýsigögn fyrir útgáfustjórnunarkerfi, t.d. Git.
+  - [Wikipedia: Repository](<https://en.wikipedia.org/wiki/Repository_(version_control)>)
+- stöður í Git
+  - Git sér skrár í þrem stöðum: _committed_, _modified_ og _staged_.
+- `commit`
+  - Git aðgerð sem færir allar skrár sem eru í _staged_ stöðu í _committed_ stöðu.
+- remotes
+  - _Remote repositories_
+  - Repo sem eru staðsett á öðrum stað en okkar eigin vél, t.d. á GitHub.
+- `push`
+  - Git aðgerð sem færir _committed_ skrár frá okkar vél yfir á remote repo.
+- branches
+  - Þegar við víkjum frá meginlínu (yfirleitt kallað `main`) í vinnu okkar, leyfir okkur að gera tilraunir, breyta einhverju o.fl. án þes að hafa áhrif á annað.
+  - [Wikipedia: Branching (version control)](<https://en.wikipedia.org/wiki/Branching_(version_control)>)
+- `merge`
+  - Git (og almenn útgáfustjórnunar) aðgerð sem sameinar tvær greinar saman.
+  - [Wikipedia: Merge (version control)](<https://en.wikipedia.org/wiki/Merge_(version_control)>)
+- GitHub
+  - Stærsti hýsingaraðili fyrir Git repo.
+  - [Wikipedia: GitHub](https://en.wikipedia.org/wiki/GitHub)
+- GitHub workflow
+  - Vel skilgreint flæði fyrir vinnu með Git og GitHub.
+  - [GitHub flow](https://guides.github.com/introduction/flow/)
+- JavaScript
+  - „Forritunarmál vefsins“, staðlað hjá ECMA sem ECMAScript.
+  - [Wikipedia: JavaScript](https://en.wikipedia.org/wiki/JavaScript)
+- JavaScript týpur og aðgerðir
+  - JavaScript styður ákveðnar týpur og reikniaðgerðir.
+- `string`
+  - Strengi í JavaScript er hægt að skilgreina með `'`, `"` eða `` ` ``, þeir eru geymdir sem óbreytanleg röð af unicode stöfum.
+- `number`
+  - Allar tölur í JavaScript eru geymdar sem `number`, hvort þær sem eru heiltölur eða tölur með broti. Vegna þess hvernig þær eru geymdar geta þær verið ónákvæmar.
+  - [MDN `number`](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#number_type)
+- `boolean`
+  - Gildi sem er annaðhvort `true` eða `false`.
+  - [MDN `boolean`](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#boolean_type)
+- `undefined`
+  - Gildi á breytum og eigindum hluta sem ekki hafa verið skilgreind.
+  - [MDN `undefined`](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#undefined_type)
+- `null`
+  - Gildi sem stendur fyrir að vísvitandi fjarveru gildis.
+  - [MDN `null`](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#null_type)
+- Veikar týpur
+  - Í JavaScript hafa breytur ekki týpur heldur hafa gildi týpur, þegar við notum gildi í óviðeigandi aðgerðir getum við fengið óvæntar niðurstöður.
+  - [Wikipedia: Strong and weak typing](https://en.wikipedia.org/wiki/Strong_and_weak_typing)
+- _type coercion_
+  - Sjálfkrafa breyting á týpu gilda í JavaScript út frá því hvernig þau eru notuð.
+  - [MDN: Type coercion](https://developer.mozilla.org/en-US/docs/Glossary/Type_coercion)
+- Truthy og falsy
+  - Þegar við nýtum _type coercion_ til að fá gildi til að haga sér eins og `boolean` gildi, falsy gildi eru `false`, `0`, `''`, `null`, `undefined`, `NaN` og truthy gildi eru öll önnur gildi.
+  - [MDN: Falsy](https://developer.mozilla.org/en-US/docs/Glossary/Falsy)
+  - [MDN: Truthy](https://developer.mozilla.org/en-US/docs/Glossary/Truthy)
