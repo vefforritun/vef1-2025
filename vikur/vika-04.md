@@ -2,7 +2,9 @@
 
 ## Fyrirlestrar
 
-Koma inn eftir fyrirlestur 8. september.
+- [Fyrirlestur 4.1: Vinna í verkefni 3](https://youtu.be/6NlGtva4sd8)
+- [Fyrirlestur 4.2: Enn meiri vinna í verkefni 3](https://youtu.be/jrB6Z5GU6Rc)
+- [Fyrirlestur 4.3: Verkefni 4, kynning](https://youtu.be/zjpmylKBErQ)
 
 ## Námsefni
 
