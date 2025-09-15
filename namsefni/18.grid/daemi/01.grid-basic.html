@@ -1,48 +1,48 @@
-
-<!doctype html>
+<!DOCTYPE html>
 <html lang="is">
   <head>
-    <meta charset="utf-8">
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
     <title>CSS Grid</title>
     <style>
-    * {
-      margin: 0;
-      padding: 0;
-      box-sizing: border-box;
-    }
+      * {
+        margin: 0;
+        padding: 0;
+        box-sizing: border-box;
+      }
 
-    main {
-      max-width: 1200px;
-      margin: 0 auto;
-    }
+      main {
+        max-width: 1200px;
+        margin: 0 auto;
+      }
 
-    .grid {
-      display: grid;
+      .grid {
+        display: grid;
 
-      /* explicit fjórir dálkar sem vilja taka jafnt pláss */
-      grid-template-columns: repeat(4, 1fr);
+        /* explicit fjórir dálkar sem vilja taka jafnt pláss */
+        grid-template-columns: repeat(4, 1fr);
 
-      /* implicit raðir sem eiga að vera minnst 200px eða
+        /* implicit raðir sem eiga að vera minnst 200px eða
       eins háar og þær þurfa */
-      grid-auto-rows: minmax(200px, auto);
-      gap: 10px;
-    }
+        grid-auto-rows: minmax(200px, auto);
+        gap: 10px;
+      }
 
-    .item {
-      padding: 1rem;
-      width: 100%;
-      background-color: #999;
-    }
+      .item {
+        padding: 1rem;
+        width: 100%;
+        background-color: #999;
+      }
 
-    .item-high {
-      min-height: 300px;
-      background-color: #0f0;
-    }
+      .item-high {
+        min-height: 300px;
+        background-color: #0f0;
+      }
 
-    .item-wide {
-      min-width: 400px;
-      background-color: #0ff;
-    }
+      .item-wide {
+        min-width: 400px;
+        background-color: #0ff;
+      }
     </style>
   </head>
   <body>
