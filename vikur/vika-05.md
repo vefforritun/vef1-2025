@@ -2,7 +2,10 @@
 
 ## Fyrirlestrar
 
-Koma inn eftir fyrirlestur 15. september.
+- [Fyrirlestur 5.1: Unnið í verkefni 4](https://youtu.be/IyNfpZTrqtg)
+- [Fyrirlestur 5.2: Skalanleg vefhönnun, grid](https://youtu.be/pQ7d34njKFk)
+- [Hópverkefni 1](https://youtu.be/DO34cfV8drg)
+- [Verkefni 5 og meira um grid og flex](https://youtu.be/7aPwyvAGacY)
 
 ## Námsefni
 
