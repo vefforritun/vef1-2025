@@ -2,7 +2,8 @@
 
 ## Fyrirlestrar
 
-Koma inn eftir fyrirlestur 22. september.
+- [Fyrirlestur 6.1: Meira um verkefni 5](https://youtu.be/12Sr1wZ335A)
+- [Fyrirlestur 6.2: Verkefni 6](https://youtu.be/gmsZzaW48d4)
 
 ## Námsefni
 
