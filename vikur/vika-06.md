@@ -5,6 +5,11 @@
 - [Fyrirlestur 6.1: Meira um verkefni 5](https://youtu.be/12Sr1wZ335A)
 - [Fyrirlestur 6.2: Verkefni 6](https://youtu.be/gmsZzaW48d4)
 
+Unnið í tíma:
+
+- [Verkefni 5](https://github.com/vefforritun/vef1-2025-v5-unnid-i-tima)
+- [Verkefni 6](https://github.com/vefforritun/vef1-2025-v6-unnid-i-tima)
+
 ## Námsefni
 
 ### Lesefni
