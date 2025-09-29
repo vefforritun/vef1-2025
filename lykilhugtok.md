@@ -521,3 +521,44 @@ Samansafn af öllum lykilhugtökum í áfanganum.
   - Þegar við nýtum _type coercion_ til að fá gildi til að haga sér eins og `boolean` gildi, falsy gildi eru `false`, `0`, `''`, `null`, `undefined`, `NaN` og truthy gildi eru öll önnur gildi.
   - [MDN: Falsy](https://developer.mozilla.org/en-US/docs/Glossary/Falsy)
   - [MDN: Truthy](https://developer.mozilla.org/en-US/docs/Glossary/Truthy)
+
+## Vika 8
+
+[Vikublað 8](vikur/vika-08.md)
+
+- Segðir
+  - _Expressions_
+  - Segð er kóðabútur sem skilar gildi, getur innihaldið aðra segð
+  - [MDN: Expressions and operators](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Expressions_and_Operators)
+- Skipanir
+  - _Statements_
+  - Samansafn af segðum, forrit eru samansöfn af skipunum
+  - [MDN: Statements and declarations](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements)
+- Semíkomman í JavaScript
+  - Í JavaScript er semíkomma valkvæm _statement terminator_, ef sleppt er _automatic semicolon insertion_ reikniritið notað til að setja inn semíkommu
+  - [MDN: Automatic semicolon insertion](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Lexical_grammar#automatic_semicolon_insertion)
+- Breytur
+  - _Variables_
+  - Breytur eru skilgreindar með `let`, `const` eða `var` og innihalda vísanir í gildi, breytur hafa ekki týpu, gildið hefur týpu
+  - [MDN: let](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/let)
+  - [MDN: const](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/const)
+- Flæðistýringar
+  - _Control flow_
+  - Með ákveðnum skipunum í formi `if` og `switch` getum við stýrt flæði forrits
+  - [MDN: Control flow](https://developer.mozilla.org/en-US/docs/Glossary/Control_flow)
+- Lykkjur
+  - _Loops_
+  - Með ákveðnum skipunum í formi `for`, `while` og `do...while` getum við endurtekið skipanir í flæði forrits
+  - [MDN: Loops and iteration](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Loops_and_iteration)
+- Föll
+  - _Functions_
+  - Blokk af kóði sem getur haft nafn (ef ekki nefnd _nafnlaus föll_ eða _anonymous functions_) og skilað gildi, notum til að skipuleggja kóða og draga úr endurtekningu
+  - [MDN: Functions](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Functions)
+- Fylki
+  - _Arrays_
+  - Raðaður listi af gildum, hægt að nálgast gildi eftir _index_ (byrjar ´0´) með _bracket notation_ `[]`
+  - [MDN: Arrays](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array)
+- Hlutir
+  - _Objects_
+  - Gildi sem geymir núll til fleiri gildi sem nafn-gildis pör, hægt að nálgast gildi með _dot notation_ `.` eða _bracket notation_ `[]`
+  - [MDN: Objects](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Working_with_Objects)
