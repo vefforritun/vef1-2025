@@ -83,6 +83,8 @@ Til að sækja dæmi er hægt að sækja allt efni frá þessu GitHub repo með 
   - Gestafyrirlestur um hönnun; node.js & npm; Sass & Stylelint; CSS í stærri verkefnum
 - [Vika 7, 29. september–5. október 2025](vikur/vika-07.md)
   - Git & GitHub; JavaScript: gildi, týpur, virkjar
+- [Vika 8, 6.–12. október 2025](vikur/vika-08.md)
+  - JavaScript: stýriskipanir, föll, fylki, hlutir
 
 ## Verkefni
 
