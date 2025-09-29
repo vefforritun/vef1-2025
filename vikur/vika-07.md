@@ -2,7 +2,14 @@
 
 ## Fyrirlestrar
 
-Koma inn eftir fyrirlestur 29. september.
+- [Fyrirlestur 7.1: NPM, Git, Netlify, verkefni 6](https://youtu.be/JYEd5nYNcN4)
+- [Fyrirlestur 7.2: Meira um verkefni 6](https://youtu.be/Dh_JoYhSQc0)
+
+Unnið í tíma:
+
+- [vef1-2025-v6-unnid-i-tima](https://github.com/vefforritun/vef1-2025-v6-unnid-i-tima)
+- [vef1-2025-v6-unnid-i-tima-v2](https://github.com/vefforritun/vef1-2025-v6-unnid-i-tima-v2)
+-
 
 ## Námsefni
 
