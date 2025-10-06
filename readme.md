@@ -27,7 +27,15 @@ Nánar er [fjallað um kennsluáætlun og námsefni í viku 1](vikur/vika-01.md)
 
 ## Lokapróf
 
-Nánar um lokapróf eftir að próftafla er birt 30. september.
+Lokapróf verður haldið föstudaginn 05. desember 2025 kl. 13:30 - 16:30.
+
+**Prófið er staðpróf** og fer fram í Inspera.
+
+[Hægt er að nálgast prufupróf á Inspera](https://hi.inspera.com/). Farið verður yfir prófið í fyrirlestri 10. eða 17. nóvember.
+
+Hægt er að nálgast eldri próf á Uglu undir „Prófasafn“.
+
+Fjallað um lokapróf í [fyrirlestri 8.1](https://youtu.be/YlhB_X97oqk).
 
 ## Vikublöð
 

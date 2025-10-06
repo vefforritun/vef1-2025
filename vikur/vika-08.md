@@ -2,7 +2,15 @@
 
 ## Fyrirlestrar
 
-Koma inn eftir fyrirlestur 6. október.
+- [Fyrirlestur 8.1: Um lokapróf](https://youtu.be/YlhB_X97oqk)
+- [Fyrirlestur 8.2: Aðeins um hópverkefni 1](https://youtu.be/VpJZi1Ja6q4)
+- [Fyrirlestur 8.3: Hópverkefni 1 grunnur; Git, GitHub og PRs](https://youtu.be/__Y-WvSRtaM)
+- [Fyrirlestur 8.4: JavaScript inngangur](https://youtu.be/-_V-XQjdCpg)
+- [Fyrirlestur 8.5: Verkefni 7](https://youtu.be/6h9FGU1telw)
+
+[Grunnur að hópverkefni 1 úr fyrirlestri 8.3](https://github.com/osk/vef1-2025-hopverkefni1-osk).
+
+[Grunnur að verkefni 7 úr fyrirlestri 8.5](https://github.com/vefforritun/vef1-2025-v7-unnid-i-tima).
 
 ## Námsefni
 
