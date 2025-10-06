@@ -562,3 +562,53 @@ Samansafn af öllum lykilhugtökum í áfanganum.
   - _Objects_
   - Gildi sem geymir núll til fleiri gildi sem nafn-gildis pör, hægt að nálgast gildi með _dot notation_ `.` eða _bracket notation_ `[]`
   - [MDN: Objects](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Working_with_Objects)
+
+## Vika 9
+
+[Vikublað 9](vikur/vika-09.md)
+
+- DOM
+  - _Document Object Model_
+  - Leyfir forritum og skriptum að gera dýnamískar breytingar á efni, skipulagi og útliti skjala (oftast HTML eða XML) gegnum API
+  - [MDN: Document Object Model](https://developer.mozilla.org/en-US/docs/Web/API/Document_Object_Model)
+- DOM tré og nóður, vísanir þeirra á milli
+  - DOM er tré og hefur nóður sem tengjast, við getum fundið, búið til, breytt og eytt nóðum.
+- `querySelector` og `querySelectorAll`
+  - Aðferðir til að finna nóður í DOM tré með CSS selector
+  - [MDN: querySelector](https://developer.mozilla.org/en-US/docs/Web/API/Document/querySelector)
+  - [MDN: querySelectorAll](https://developer.mozilla.org/en-US/docs/Web/API/Document/querySelectorAll)
+- Breytingar á DOM tré
+  - Við getum notað DOM aðgerðir til að breyta DOM tré, t.d. `removeChild`, `appendChild`, `insertBefore`, `replaceChild`.
+  - [MDN: Node.removeChild](https://developer.mozilla.org/en-US/docs/Web/API/Node/removeChild)
+- Búa til element og nóður í DOM tré
+  - Við getum búið til nýjar nóður með `document.createElement` og `document.createTextNode`.
+- Attributes og DOM
+  - Við getum bætt við, breytt og fjarlægt attributes á nóðum með `setAttribute`, `getAttribute` og `removeAttribute`.
+  - [MDN: Element.setAttribute](https://developer.mozilla.org/en-US/docs/Web/API/Element/setAttribute)
+- `dataset`
+  - Við getum bætt við gögnum á nóður með `dataset` eiginleikanum, heiti á gögnum byrja á `data-`.
+  - [MDN: HTMLElement.dataset](https://developer.mozilla.org/en-US/docs/Web/API/HTMLElement/dataset)
+- `classList`
+  - Við getum átt við `class` á nóðum með `classList` eiginleikanum, t.d. bætt við, fjarlægt og athugað hvort nóðan hafi ákveðið `class`.
+  - [MDN: Element.classList](https://developer.mozilla.org/en-US/docs/Web/API/Element/classList)
+- Atburðir
+  - _Events_
+  - Þegar við bregðumst við atburðum á vefnum, t.d. smellt á takka, skrollað eða ýtt á músarhnapp.
+  - [MDN: Introduction to events](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Building_blocks/Events)
+- Upplýsingar um atburð (event)
+  - Fáum `Event` hlut sem inniheldur upplýsingar um atburðinn, t.d. um hvaða lykil var slegið á lyklaborð, eða hvaða takka á mús.
+  - [MDN: Event](https://developer.mozilla.org/en-US/docs/Web/API/Event)
+- Sjálfgefin hegðun og `preventDefault()`
+  - Element með gagnvirk virkni (interactive) á vefnum gera eitthvað sjálfgefið, t.d. form sendir gögn, með `preventDefault` getum við stöðvað þessa hegðun.
+  - [MDN: Event.preventDefault](https://developer.mozilla.org/en-US/docs/Web/API/Event/preventDefault)
+- Einingar
+  - _Modules_
+  - Leið til að skipta forritum upp í frekari einingar en eingöngu föll og breytur, hægt að skilgreina hvaða hluti af kóðanum er aðgengilegur utan einingarinnar.
+  - [Wikipedia: Modular programming](https://en.wikipedia.org/wiki/Modular_programming)
+- API
+  - _Application Programming Interface_
+  - Skilgreint viðmót forrita og eininga
+  - [Wikipedia: Application programming interface](https://en.wikipedia.org/wiki/Application_programming_interface)
+- JavaScript/ECMAScript modules
+  - Stöðluð virkni í JavaScript til að skipta forritum upp í einingar
+  - [MDN: JavaScript modules](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Modules)
