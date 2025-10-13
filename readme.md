@@ -14,8 +14,8 @@ Hér má nálgast allt námsefni, dæmi og verkefni í áfanganum vefforritun 1 
 | 6    | 22. september | Gestafyrirlestur um hönnun; node.js & npm; Sass & Stylelint; CSS í stærri verkefnum | Verkefni 6                | Verkefni 5                |
 | 7    | 29. september | Git & GitHub; JavaScript: gildi, týpur, virkjar                                     |                           | Verkefni 6                |
 | 8    | 6. október    | JavaScript: stýriskipanir, föll, fylki, hlutir                                      | Verkefni 7                |                           |
-| 9    | 13. október   | Einingar; forritun á vef: DOM og atburðir                                           | Verkefni 8; Hópverkefni 2 | Verkefni 7; Hópverkefni 1 |
-| 10   | 20. október   | Ósamstillt forritun; HTTP & form; ajax; eslint                                      | Verkefni 9                | Verkefni 8                |
+| 9    | 13. október   | Einingar; forritun á vef: DOM og atburðir                                           | Verkefni 8; Hópverkefni 2 | Verkefni 7                |
+| 10   | 20. október   | Ósamstillt forritun; HTTP & form; ajax; eslint                                      | Verkefni 9                | Verkefni 8; Hópverkefni 1 |
 | 11   | 27. október   | Tæki & tól; villumeðhöndlun; reglulegar segðir; fallaforritun                       | Verkefni 10               | Verkefni 9                |
 | 12   | 3. nóvember   | Hlutir; HTML5 og Web APIs; prófanir                                                 |                           | Verkefni 10               |
 | 13   | 10. nóvember  | Aðstoð, umræður; verkefnatími; upplýsingar um lokapróf                              |                           | Hópverkefni 2             |
@@ -120,9 +120,12 @@ Verkefni eru sett fyrir formlega í fyrirlestri á mánudegi (þau gætu verið 
 - [Verkefni 6 (CSS #4)](https://github.com/vefforritun/vef1-2025-v6), CSS í stærri verkefnum.
   - Sett fyrir 22. september, skilist 2. október.
   - [Sýnilausn](https://github.com/vefforritun/vef1-2025-v6-synilausn), aðgengileg 3. október.
-- [Verkefni 7 (JavaScript #1)](https://github.com/vefforritun/vef1-2024-v7), JavaScript grunnur.
+- [Verkefni 7 (JavaScript #1)](https://github.com/vefforritun/vef1-2025-v7), JavaScript grunnur.
   - Sett fyrir 6. október, skilist 16. október
-  - [Sýnilausn](https://github.com/vefforritun/vef1-2024-v7-synilausn), aðgengileg 17. október.
+  - [Sýnilausn](https://github.com/vefforritun/vef1-2025-v7-synilausn), aðgengileg 17. október.
+- [Verkefni 8 (JavaScript #2)](https://github.com/vefforritun/vef1-2025-v8), JavaScript, DOM og atburðir.
+  - Sett fyrir 13. október, skilist 23. október
+  - [Sýnilausn](https://github.com/vefforritun/vef1-2025-v8-synilausn), aðgengileg 24. október.
 
 ### Hópverkefni
 
