@@ -37,6 +37,8 @@ Hægt er að nálgast eldri próf á Uglu undir „Prófasafn“.
 
 Fjallað um lokapróf í [fyrirlestri 8.1](https://youtu.be/YlhB_X97oqk).
 
+[Hægt er að sækja um Chromebook til að taka prófið á](https://ugla.hi.is/kerfi/view/page.php?sid=5680#Krombok).
+
 ## Vikublöð
 
 Hvert vikublað samanstendur af:
@@ -130,9 +132,9 @@ Verkefni eru sett fyrir formlega í fyrirlestri á mánudegi (þau gætu verið 
 ### Hópverkefni
 
 - [Hópverkefni 1](https://github.com/vefforritun/vef1-2025-h1).
-  - Sett fyrir um miðjan september, skilist um miðjan október.
+  - Sett fyrir um miðjan september, skilist 23. október.
 - [Hópverkefni 2](https://github.com/vefforritun/vef1-2025-h2).
-  - Sett fyrir um miðjan október, skilist um miðjan nóvember fyrir lok misseris.
+  - Sett fyrir 20. október, skilist um miðjan nóvember fyrir lok misseris.
 
 ## Dæmatímar
 

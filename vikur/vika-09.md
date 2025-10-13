@@ -2,7 +2,14 @@
 
 ## Fyrirlestrar
 
-Koma eftir fyrirlestur 13. október 2025.
+- [Vefforritun 1, 2025, fyrirlestur 9.1: Meira um verkefni 7](https://youtu.be/UnbWimPP-PE)
+- [Vefforritun 1, 2025, fyrirlestur 9.2: Verkefni 8](https://youtu.be/jtPxnGjNzmo)
+
+Unnið í fyrirlestri:
+
+[Grunnur að verkefni 7 úr fyrirlestri 8.5 + 9.1](https://github.com/vefforritun/vef1-2025-v7-unnid-i-tima).
+
+[Grunnur að verkefni 8 úr fyrirlestri 9.2](https://github.com/vefforritun/vef1-2025-v8-unnid-i-tima).
 
 ## Námsefni
 
