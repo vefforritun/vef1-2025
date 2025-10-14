@@ -612,3 +612,54 @@ Samansafn af öllum lykilhugtökum í áfanganum.
 - JavaScript/ECMAScript modules
   - Stöðluð virkni í JavaScript til að skipta forritum upp í einingar
   - [MDN: JavaScript modules](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Modules)
+
+## Vika 10
+
+[Vikublað 10](vikur/vika-10.md)
+
+- Ósamstillt forritun
+  - _Asynchronous programming_
+  - Forrit sem sækja gögn á harðan disk, yfir netið, nýta atburði o.fl. eru ósamstillt: við þurfum að bíða eftir að aðgerðir klárast.
+  - [Wikipedia: Asynchronous programming](https://en.wikipedia.org/wiki/Asynchronous_programming)
+- Promises og stöður þeirra, `then` og `catch`
+  - Hjúpum ósamstilltar aðgerðir í `Promise` hlut, getum notað `then` og `catch` til að bregðast við þegar aðgerð klárast eða fer úrskeiðis.
+  - [Wikipedia: Promise (programming)](<https://en.wikipedia.org/wiki/Promise_(programming)>)
+  - [MDN: Promise](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Promise)
+- `async` og `await`
+  - _Syntactic sugar_ fyrir `Promise`, einfaldar kóða og getur gert hann lesanlegri.
+  - [Wikipedia: Syntactic sugar](https://en.wikipedia.org/wiki/Syntactic_sugar)
+  - [Wikpedia: async/await](https://en.wikipedia.org/wiki/Async/await)
+  - [MDN: async function](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/async_function)
+- HTTP
+  - _Hypertext Transfer Protocol_
+  - Samskiptastaðall á milli _client_ og _server_, yfirleitt vafra og vefþjóns.
+  - [Wikipedia: Hypertext Transfer Protocol](https://en.wikipedia.org/wiki/Hypertext_Transfer_Protocol)
+- `GET`
+  - HTTP aðferð sem er mest notuð, sækir efni (_resource_) frá vefþjón.
+  - [Wikipedia: GET](https://en.wikipedia.org/wiki/HTTP#Request_methods)
+- `POST`
+  - HTTP aðferð sem er notuð til að senda gögn á vefþjón.
+  - [Wikipedia: POST](https://en.wikipedia.org/wiki/HTTP#Request_methods)
+- HTTP stöðukóðar
+  - Þegar HTTP aðferð klárast geta þær skilað stöðukóða, t.d. `200` fyrir OK—gekk upp eða `404` fyrir „fannst ekki“.
+  - [Wikipedia: List of HTTP status codes](https://en.wikipedia.org/wiki/List_of_HTTP_status_codes)
+- `URL` og `URLSearchParams`
+  - Web API sem leyfir okkur að vinna með URL og leitarstrengi.
+  - [MDN: URL](https://developer.mozilla.org/en-US/docs/Web/API/URL)
+  - [MDN: URLSearchParams](https://developer.mozilla.org/en-US/docs/Web/API/URLSearchParams)
+- JSON
+  - _JavaScript Object Notation_
+  - Létt gagna format, byggt á JavaScript hlutum, sem er algengt í vefþjónustuköllum.
+  - [Wikipedia: JSON](https://en.wikipedia.org/wiki/JSON)
+- `fetch`
+  - Web API sem leyfir okkur að sækja gögn yfir netið, skilar `Promise`.
+  - [MDN: fetch](https://developer.mozilla.org/en-US/docs/Web/API/Fetch_API)
+- Stöður á ósamstilltum köllum / vefþjónustuköllum:
+  - `loading`, hvað sýnum við meðan við erum að sækja gögn? Það getur tekið allt frá örfáfum `ms` uppí fleiri `sek`
+  - `error`, hvað sýnum við ef þjónustan skilar villu?
+  - `empty`, þjónustan svaraði en við fáum „tóma“ svarið
+  - `data`, allt gekk upp
+- eslint
+  - Linter fyrir JavaScript kóða sem við setjum upp með NPM.
+  - [Wikipedia: Lint (software)](<https://en.wikipedia.org/wiki/Lint_(software)>)
+  - [eslint](https://eslint.org/)

@@ -97,6 +97,8 @@ Til að sækja dæmi er hægt að sækja allt efni frá þessu GitHub repo með 
   - JavaScript: stýriskipanir, föll, fylki, hlutir
 - [Vika 9, 13.–19. október 2025](vikur/vika-09.md)
   - Einingar; forritun á vef: DOM og atburðir
+- [Vika 10, 20.–26. október 2025](vikur/vika-10.md)
+  - Ósamstillt forritun; HTTP & form; ajax; eslint
 
 ## Verkefni
 
