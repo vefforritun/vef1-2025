@@ -690,3 +690,35 @@ Samansafn af öllum lykilhugtökum í áfanganum.
 - Pökkun á kóða
   - _Code bundling_
   - Þegar við skrifum kóða í mörgum skrám gæti verið að kostur að „pakka“ þeim saman í eina (eða fleiri, þó færri en upprunalega) skrá.
+
+## Vika 12
+
+[Vikublað 12](vikur/vika-12.md)
+
+- Hlutir
+  - _Objects_
+  - Eitt af aðalhugtökum hlutbundinnar forritunar, hlutur er safn af gögnum og aðferðum sem vinna með þau.
+  - [MDN: Objects](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Working_with_Objects)
+- `this`
+  - Breyta sem vísar í samhengi, oft innan hlutar, getur verið ólíkt eftir því hvernig er kallað.
+  - [MDN: this](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/this)
+- Prótótýpur
+  - _Prototypes_
+  - Útfærsla JavaScript á erfðum byggir á prótótýpum, hlutur erfir frá öðrum hlut með því að vísa á prótótýpu.
+  - [MDN: Inheritance and the prototype chain](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Inheritance_and_the_prototype_chain)
+- Prótótýpukeðjan
+  - _Prototype chain_
+  - Eftir því sem hlutur erfir frá öðrum hlutum myndast keðja af prótótýpum.
+  - [MDN: Inheritance and the prototype chain](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Inheritance_and_the_prototype_chain)
+- Klasar (`class`) í JavaScript
+  - _Syntactic sugar_ fyrir hlutbundna forritun, einfaldar útlit klasa og erfða, verður líkara öðrum forritunarmálum.
+  - [MDN: Classes](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Classes)
+- Prófanir
+  - Þegar við skrifum kóða erum við alltaf að athuga hvernig hann virkar, próf og prófanir er hægt að framkvæma sjálfvirkt með ýmsum leiðum.
+  - [Wikipedia: Software testing](https://en.wikipedia.org/wiki/Software_testing)
+- Jest
+  - Tól til að prófa JavaScript kóða.
+  - [jest](https://jestjs.io/)
+- Web APIs
+  - Stöðluð viðmót sem vafra býður upp á, t.d. `DOM`, `fetch`, `localStorage` o.fl.
+  - [MDN: Web APIs](https://developer.mozilla.org/en-US/docs/Web/API)
