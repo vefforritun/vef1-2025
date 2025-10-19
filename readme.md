@@ -99,6 +99,10 @@ Til að sækja dæmi er hægt að sækja allt efni frá þessu GitHub repo með 
   - Einingar; forritun á vef: DOM og atburðir
 - [Vika 10, 20.–26. október 2025](vikur/vika-10.md)
   - Ósamstillt forritun; HTTP & form; ajax; eslint
+- [Vika 11, 27. október–2. nóvember 2025](vikur/vika-11.md)
+  - Tæki & tól; villumeðhöndlun; reglulegar segðir; fallaforritun
+- [Vika 12, 3.–9. nóvember 2025](vikur/vika-12.md)
+  - Hlutir; HTML5 og Web APIs; prófanir
 
 ## Verkefni
 
@@ -130,6 +134,10 @@ Verkefni eru sett fyrir formlega í fyrirlestri á mánudegi (þau gætu verið 
 - [Verkefni 8 (JavaScript #2)](https://github.com/vefforritun/vef1-2025-v8), JavaScript, DOM og atburðir.
   - Sett fyrir 13. október, skilist 23. október
   - [Sýnilausn](https://github.com/vefforritun/vef1-2025-v8-synilausn), aðgengileg 24. október.
+- [Verkefni 9 (JavaScript #3)](https://github.com/vefforritun/vef1-2025-v9), JavaScript, fetch og DOM.
+  - Sett fyrir 20. október, skilist 30. október
+- [Verkefni 10 (JavaScript #4)](https://github.com/vefforritun/vef1-2025-v10), forritun með JavaScript tólum og Web APIs.
+  - Sett fyrir 27. október, skilist 6. nóvember
 
 ### Hópverkefni
 
