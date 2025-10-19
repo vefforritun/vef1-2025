@@ -663,3 +663,30 @@ Samansafn af öllum lykilhugtökum í áfanganum.
   - Linter fyrir JavaScript kóða sem við setjum upp með NPM.
   - [Wikipedia: Lint (software)](<https://en.wikipedia.org/wiki/Lint_(software)>)
   - [eslint](https://eslint.org/)
+
+## Vika 11
+
+[Vikublað 11](vikur/vika-11.md)
+
+- Villumeðhöndlun
+  - _Exception handling_
+  - Þegar villur koma upp í JavaScript forritum (kóði getur _kastað_—throw—villu) getum við brugðist við þeim
+  - [MDN: Exception handling](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Control_flow_and_error_handling)
+- `try` og `catch`
+  - Við getum sett kóða sem gæti kastað villu í `try` blokk og bregðist við henni í `catch` blokk.
+  - [MDN: try...catch](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/try...catch)
+- Reglulegar segðir
+  - _Regular expressions_
+  - Mynstur sem við getum notað til að finna og vinna úr texta.
+  - [Wikipedia: Regular expression](https://en.wikipedia.org/wiki/Regular_expression)
+  - [MDN: Regular expressions](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Regular_Expressions)
+- Fallaforritun
+  - _Functional programming_
+  - Leið til að skrifa forrit sem byggir helst á föllum, ekki breytum og stöðum.
+  - [Wikipedia: Functional programming](https://en.wikipedia.org/wiki/Functional_programming)
+- Transpiling
+  - Tól eða þýðandi sem breytir kóða frá einu forritunarmáli í annað.
+  - [Wikipedia: Source-to-source compiler](https://en.wikipedia.org/wiki/Source-to-source_compiler)
+- Pökkun á kóða
+  - _Code bundling_
+  - Þegar við skrifum kóða í mörgum skrám gæti verið að kostur að „pakka“ þeim saman í eina (eða fleiri, þó færri en upprunalega) skrá.
