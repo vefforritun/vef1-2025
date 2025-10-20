@@ -2,7 +2,10 @@
 
 ## Fyrirlestrar
 
-Koma inn eftir fyrirlestur 20. október.
+- [Fyrirlestur 10.1: Meira um verkefni 8](https://youtu.be/1P6xlHeoJxU)
+- [Fyrirlestur 10.2: Enn meira um verkefni 8](https://youtu.be/KKR0oiE4qTE)
+- [Fyrirlestur 10.3: Hópverkefni 2](https://youtu.be/zlwHg9kDPZs)
+- [Fyrirlestur 10.4: Verkefni 9](https://youtu.be/oJIBdcTToaI)
 
 ## Námsefni
 
