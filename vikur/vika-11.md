@@ -5,6 +5,8 @@
 - [Fyrirlestur 11.1: Yfirferð á sýnilausn v8](https://youtu.be/dYKiTp4pjec)
 - [Fyrirlestur 11.2: Unnið í verkefni 9](https://youtu.be/x3qjhkwmZAU)
 
+[Unnum í verkefni 9 í fyrirlestri](https://github.com/vefforritun/vef1-2025-v9-unnid-i-tima).
+
 ## Námsefni
 
 ### Lesefni
