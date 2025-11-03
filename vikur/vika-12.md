@@ -2,7 +2,8 @@
 
 ## Fyrirlestrar
 
-Koma inn eftir fyrirlestur 3. nóvember 2025.
+- [Fyrirlestur 12.1: Yfirferð á sýnilausn á v9](https://youtu.be/MmVwKsNt8Zg)
+- [Fyrirlestur 12.2: Verkefni 10](https://youtu.be/BOmwweTp9uI)
 
 ## Námsefni
 
