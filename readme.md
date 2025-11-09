@@ -27,7 +27,7 @@ Nánar er [fjallað um kennsluáætlun og námsefni í viku 1](vikur/vika-01.md)
 
 ## Lokapróf
 
-Lokapróf verður haldið föstudaginn 05. desember 2025 kl. 13:30 - 16:30.
+Lokapróf verður haldið föstudaginn 5. desember 2025 kl. 13:30 - 16:30.
 
 **Prófið er staðpróf** og fer fram í Inspera.
 
