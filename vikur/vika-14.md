@@ -2,7 +2,7 @@
 
 ## Fyrirlestrar
 
-Koma inn eftir fyrirlestur 17. nóvember
+[Fyrirlestur 14: Um lokapróf og yfirferð á prófi 2024](https://youtu.be/zt53l-2YuRo).
 
 ## Námsefni
 
